@@ -1,3 +1,5 @@
+package Classwork;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> m = new HashMap<>();
