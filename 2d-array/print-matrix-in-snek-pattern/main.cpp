@@ -1,4 +1,4 @@
-// https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1
+//www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1
 
 class Solution {
 public:
