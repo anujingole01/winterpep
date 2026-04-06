@@ -1,5 +1,5 @@
+//half palindrome string
 string isHalfPalindrome(const string& s){
-// add your code here
 int n = s.length();
 
 int len = ( n % 2 == 0) ? n / 2 : (n / 2) + 1;
